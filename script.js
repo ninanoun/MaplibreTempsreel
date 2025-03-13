@@ -221,6 +221,8 @@ map.addLayer({
   
       map.flyTo({center: [-1.676, 48.110], // lat/long
                    zoom: 11.2,
+                   pitch: 0,
+                   bearing:0
         });
     });
   
